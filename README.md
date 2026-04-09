@@ -18,17 +18,17 @@ ripple counter that triggers a system lock after 16 failed input attempts
 ### Logic Schematics
 
 #### 1. System Architecture Overview
-[cite_start]block diagram[cite: 1].
+Block diagram
 ![System Overview](1.PNG)
 
 #### 2. ECC Generator Logic
-[cite_start]XOR-based parity bit creation[cite: 2].
+XOR-based parity bit creation
 ![ECC Generator](2.PNG)
 
 #### 3. Main Memory & Correction Unit
-[cite_start]Logic for error detection/correction[cite: 3].
+Logic for error detection/correction
 ![Main Memory Logic](3.PNG)
 
 #### 4. FSM - Digital Lock
-[cite_start]Sequential Logic, ripple counters[cite: 4].
+Sequential Logic, ripple counters
 ![Sequential Logic](4.PNG)
