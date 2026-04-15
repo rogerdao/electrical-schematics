@@ -21,7 +21,7 @@ Block diagram, includes bit flipper to simulate flipped bits/errors
 ![System Overview](1.PNG)
 
 #### 2. ECC Generator
-XOR-based parity bit creation
+XOR-based parity bit creation (hamming code based)
 
 ![ECC Generator](2.PNG)
 
