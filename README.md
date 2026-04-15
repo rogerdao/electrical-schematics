@@ -1,4 +1,4 @@
-## Digital Logic Design: 8-Bit SECDED ECC & Finite State Machines
+## Digital Logic Diagrams: 8-Bit SECDED ECC & Finite State Machines
 
 The schematics include both **combinational logic** (1/2/3) and **sequential logic** (4) systems
 
